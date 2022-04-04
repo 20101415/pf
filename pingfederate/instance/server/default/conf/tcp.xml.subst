@@ -22,7 +22,7 @@
             bind_addr="192.168.1.26"
             log_discard_msgs="false"/>
 	
-   <TCPPING initial_hosts="127.0.0.1[7600],127.0.0.1[7700],192.168.1.26[7600],192.168.1.26[7700]"
+   <TCPPING initial_hosts="127.0.0.1[7600],127.0.0.1[7700]"
             return_entire_cache="true"
             port_range="0"/>
 	
